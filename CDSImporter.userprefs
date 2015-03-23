@@ -1,0 +1,32 @@
+﻿<Properties StartupItem="CDSImporter/CDSImporter.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CDSImporter/packages.config">
+    <Files>
+      <File FileName="CDSImporter/Program.cs" Line="32" Column="32" />
+      <File FileName="CDSImporter/SqliteTable.cs" Line="87" Column="87" />
+      <File FileName="CDSImporter/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="CDSImporter/packages.config" Line="1" Column="1" />
+      <File FileName="CDSImporter/app.config" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CDSImporter>
+    <MonoDevelop.Ide.CustomExecutionModes>
+      <Data Name="Default (Custom)" Id="a18140e6-e0fd-454f-b89c-06fc0b922a73" ModeId="Default">
+        <CommandData>
+          <Item Key="MonoDevelop.Ide.Execution.CustomArgsCustomizer">
+            <Value Arguments="/Users/ramanathan/test.csv" ctype="CustomArgsExecutionModeData">
+              <EnvironmentVariables />
+            </Value>
+          </Item>
+          <Item Key="MonoDevelop.Ide.Execution.MonoExecutionCustomizer">
+            <Value ctype="MonoExecutionParameters" />
+          </Item>
+        </CommandData>
+      </Data>
+    </MonoDevelop.Ide.CustomExecutionModes>
+  </MonoDevelop.Ide.ItemProperties.CDSImporter>
+</Properties>
